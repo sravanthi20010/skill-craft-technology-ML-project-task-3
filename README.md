@@ -1,1 +1,1 @@
-# skill-craft-technology-ML-project-task-3
+# Skill Craft Technology Task 3 Machine Learning Support Vector Machine (SVM)
